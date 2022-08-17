@@ -1,7 +1,7 @@
 
 ### Hi There, I'm Alec 👋
 
-## I'm a Full-Stack Software Engineer and Avid Learner
+## I'm a Full-Stack Software Engineer
 - 🔭 I’m currently working on a full stack project
 - 🌱 I’m currently learning Python
 - 👉 I’m looking to collaborate on open source
