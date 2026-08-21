@@ -32,8 +32,6 @@ drummed for Kanye West. not a typo.
 ![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
 ![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=c9d1d9)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alecchoy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" height="165"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alecchoy/Alecchoy/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/Alecchoy/Alecchoy/output/github-snake.svg" alt="snake"/>
