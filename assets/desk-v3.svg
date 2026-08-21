@@ -12,7 +12,7 @@
   <line x1="472" y1="640" x2="899" y2="640" stroke="#26272e" stroke-width="2"/>
   <rect x="16" y="122" width="200" height="20" rx="3" fill="#e6e6e6"/>
   <g font-family="SF Mono, Fira Code, Menlo, monospace" font-size="13">
-    <text x="486" y="424" xml:space="preserve"><tspan fill="#6b7280">✳ </tspan><tspan fill="#d7e2f2">life</tspan><tspan fill="#6b7280"> — claude code</tspan></text>
+    <text x="486" y="424" xml:space="preserve"><tspan fill="#6b7280">✳ </tspan><tspan fill="#d7e2f2">life</tspan></text>
     <rect x="480" y="442" width="240" height="20" rx="3" fill="#e6e6e6"/>
     <text x="486" y="456" xml:space="preserve"><tspan fill="#111111">❯ and outside the terminal?</tspan></text>
     <text x="486" y="488" xml:space="preserve"><tspan fill="#6b7280">● </tspan><tspan fill="#5f8fcf">gym, pickleball, hikes — move daily.</tspan></text>
