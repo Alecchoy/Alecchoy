@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://yelofamily.com"><img src="assets/banner.svg" alt="alec@choy — zsh" width="860"/></a>
+  <a href="https://yelofamily.com"><img src="assets/terminal.svg" alt="alec@choy — zsh" width="860"/></a>
   <br/><br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
