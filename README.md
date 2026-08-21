@@ -12,10 +12,6 @@
 ![Claude](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=c9d1d9)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alecchoy/Alecchoy/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Alecchoy/Alecchoy/output/github-snake.svg" alt="snake"/>
-</picture>
 
 <sub>📫 <a href="mailto:alecchoy@gmail.com">alecchoy@gmail.com</a> · <a href="https://www.linkedin.com/in/alec-choy-387aab13b/">LinkedIn</a> · <a href="https://yelofamily.com">yelofamily.com</a></sub>
 
