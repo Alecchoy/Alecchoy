@@ -72,7 +72,7 @@
     <text x="486" y="1004" xml:space="preserve"><tspan fill="#6cb6ff">linkedin.com/in/alec-choy-387aab13b</tspan></text>
     <text x="486" y="1028" xml:space="preserve"><tspan fill="#6cb6ff">yelofamily.com</tspan></text>
     <text x="486" y="1062" xml:space="preserve"><tspan fill="#8fbf6f">➜ </tspan></text>
-    <text x="486" y="1116" xml:space="preserve"><tspan fill="#6b7280">life · </tspan><tspan fill="#8fbf6f">auto mode on</tspan></text></rect>
+    <text x="486" y="1116" xml:space="preserve"><tspan fill="#6b7280">life · </tspan><tspan fill="#8fbf6f">auto mode on</tspan></text>
     <rect x="504" y="1048" width="8" height="16" fill="#d7e2f2"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
   </g>
   <defs><clipPath id="ic"><rect x="22" y="48" width="52" height="52" rx="12"/></clipPath></defs>
