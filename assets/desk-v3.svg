@@ -64,7 +64,7 @@
     <text x="486" y="742" xml:space="preserve"><tspan fill="#5f8fcf">  alec — devops engineer who ships</tspan></text>
     <text x="486" y="770" xml:space="preserve"><tspan fill="#d7e2f2">SYNOPSIS</tspan></text>
     <text x="486" y="792" xml:space="preserve"><tspan fill="#5f8fcf">  alec [--day devops] [--night yelo]</tspan></text>
-    <text x="486" y="814" xml:space="preserve"><tspan fill="#5f8fcf">       [--fuel tea] [--for the culture]</tspan></text>
+    <text x="486" y="814" xml:space="preserve"><tspan fill="#5f8fcf">       [--fuel tea] [--for the lore]</tspan></text>
     <text x="486" y="842" xml:space="preserve"><tspan fill="#d7e2f2">EXIT STATUS</tspan></text>
     <text x="486" y="864" xml:space="preserve"><tspan fill="#5f8fcf">  0 — resolves. </tspan><tspan fill="#8fbf6f">every time.</tspan></text>
     <text x="486" y="952" xml:space="preserve"><tspan fill="#8fbf6f">➜ </tspan><tspan fill="#d7e2f2">cat ~/.contact</tspan></text>
