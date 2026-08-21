@@ -1,5 +1,5 @@
-<svg width="860" height="210" viewBox="0 0 860 210" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="858" height="208" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<svg width="860" height="530" viewBox="0 0 860 530" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="858" height="528" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <rect x="1" y="1" width="858" height="38" rx="14" fill="#161b22"/>
   <rect x="1" y="25" width="858" height="14" fill="#161b22"/>
   <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
@@ -7,22 +7,36 @@
   <circle cx="66" cy="20" r="6" fill="#27c93f"/>
   <text x="430" y="25" font-family="SF Mono, Fira Code, Menlo, monospace" font-size="12" fill="#8b949e" text-anchor="middle">alec@choy — zsh</text>
   <g font-family="SF Mono, Fira Code, Menlo, monospace" font-size="15">
-    <text x="28" y="80"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">whoami</tspan></text>
-    <text x="28" y="106" fill="#8b949e">alec — builds AI that talks to your parents</text>
-    <text x="28" y="144"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">uptime</tspan></text>
-    <text x="28" y="170"><tspan fill="#8b949e">yelo: </tspan><tspan fill="#7ee787">live on App Store</tspan><tspan fill="#8b949e"> · JFrog: </tspan><tspan fill="#79c0ff">P1 queue</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#ffa657">shipping</tspan></text>
-    <rect x="28" y="182" width="9" height="17" fill="#7ee787">
+    <text x="28" y="76"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">whoami</tspan></text>
+    <text x="28" y="102" fill="#8b949e">alec — builds AI that talks to your parents</text>
+
+    <text x="28" y="146"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">ls ~/ships</tspan></text>
+    <text x="28" y="172"><tspan fill="#79c0ff">yelo/</tspan><tspan fill="#c9d1d9" dx="18">AI voice companion for elderly, limited-English parents</tspan></text>
+    <text x="94" y="198" fill="#8b949e">→ <tspan fill="#7ee787">live on the App Store</tspan> — built for my own mom and dad</text>
+    <text x="94" y="224" fill="#8b949e">→ speaks the first sentence while the model is still thinking</text>
+    <text x="94" y="250" fill="#8b949e">→ 15 languages · native Swift iOS · Claude routing · Postgres RLS</text>
+    <text x="94" y="276" fill="#8b949e">→ <tspan fill="#79c0ff">yelofamily.com</tspan></text>
+
+    <text x="28" y="320"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">grep -r "day job" ~/jfrog</tspan></text>
+    <text x="28" y="346" fill="#8b949e">P1/P2 enterprise escalations — auth (OIDC/SAML/OAuth) &amp; supply-chain security</text>
+    <text x="28" y="372" fill="#8b949e">agentic case triage on Claude Code · SUP CLI — the team's default triage step</text>
+
+    <text x="28" y="416"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">cat /etc/fun-fact</tspan></text>
+    <text x="28" y="442" fill="#ffa657">drummed for Kanye West. not a typo.</text>
+
+    <text x="28" y="486"><tspan fill="#7ee787">➜</tspan></text>
+    <rect x="48" y="472" width="9" height="17" fill="#7ee787">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
   <g>
-    <circle cx="752" cy="120" r="52" fill="#eaf6ef" stroke="#2b6673" stroke-width="3.5"/>
-    <path d="M 721 96 Q 732 88 743 94" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
-    <path d="M 761 94 Q 772 88 783 96" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
-    <circle cx="734" cy="112" r="8" fill="#2b6673"/>
-    <circle cx="770" cy="112" r="8" fill="#2b6673"/>
-    <circle cx="736.5" cy="109.5" r="2.4" fill="#eaf6ef"/>
-    <circle cx="772.5" cy="109.5" r="2.4" fill="#eaf6ef"/>
-    <path d="M 739 141 Q 752 150 765 141" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <circle cx="770" cy="96" r="44" fill="#eaf6ef" stroke="#2b6673" stroke-width="3"/>
+    <path d="M 744 76 Q 753 69 762 74" stroke="#2b6673" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <path d="M 778 74 Q 787 69 796 76" stroke="#2b6673" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <circle cx="755" cy="90" r="7" fill="#2b6673"/>
+    <circle cx="785" cy="90" r="7" fill="#2b6673"/>
+    <circle cx="757" cy="88" r="2" fill="#eaf6ef"/>
+    <circle cx="787" cy="88" r="2" fill="#eaf6ef"/>
+    <path d="M 759 114 Q 770 122 781 114" stroke="#2b6673" stroke-width="3.5" fill="none" stroke-linecap="round"/>
   </g>
 </svg>
