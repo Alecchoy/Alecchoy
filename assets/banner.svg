@@ -1,0 +1,28 @@
+<svg width="860" height="210" viewBox="0 0 860 210" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="858" height="208" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="858" height="38" rx="14" fill="#161b22"/>
+  <rect x="1" y="25" width="858" height="14" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
+  <text x="430" y="25" font-family="SF Mono, Fira Code, monospace" font-size="12" fill="#8b949e" text-anchor="middle">alec@choy — zsh</text>
+  <g font-family="SF Mono, Fira Code, monospace" font-size="16">
+    <text x="28" y="78"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">whoami</tspan></text>
+    <text x="28" y="104" fill="#8b949e">alec — builds AI that talks to your parents</text>
+    <text x="28" y="140"><tspan fill="#7ee787">➜</tspan><tspan fill="#c9d1d9" dx="10">uptime</tspan></text>
+    <text x="28" y="166" fill="#8b949e">yelo: <tspan fill="#7ee787">live on the App Store</tspan> · day job: <tspan fill="#79c0ff">JFrog P1 queue</tspan> · status: <tspan fill="#ffa657">shipping</tspan></text>
+    <rect x="28" y="178" width="10" height="18" fill="#7ee787">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g>
+    <circle cx="756" cy="122" r="56" fill="#eaf6ef" stroke="#2b6673" stroke-width="3.5"/>
+    <path d="M 722 96 Q 734 88 746 94" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M 766 94 Q 778 88 790 96" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <circle cx="736" cy="112" r="8.5" fill="#2b6673"/>
+    <circle cx="776" cy="112" r="8.5" fill="#2b6673"/>
+    <circle cx="738.5" cy="109.5" r="2.5" fill="#eaf6ef"/>
+    <circle cx="778.5" cy="109.5" r="2.5" fill="#eaf6ef"/>
+    <path d="M 742 144 Q 756 154 770 144" stroke="#2b6673" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
