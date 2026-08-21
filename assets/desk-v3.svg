@@ -61,9 +61,9 @@
     <text x="486" y="356" xml:space="preserve"><tspan fill="#6b7280">cluster · </tspan><tspan fill="#8fbf6f">healthy</tspan><tspan fill="#6b7280"> · 0 CrashLoops</tspan></text>
     <text x="486" y="690" xml:space="preserve"><tspan fill="#8fbf6f">➜ </tspan><tspan fill="#d7e2f2">man alec</tspan></text>
     <text x="486" y="720" xml:space="preserve"><tspan fill="#d7e2f2">NAME</tspan></text>
-    <text x="486" y="742" xml:space="preserve"><tspan fill="#5f8fcf">  alec — support engineer who ships</tspan></text>
+    <text x="486" y="742" xml:space="preserve"><tspan fill="#5f8fcf">  alec — devops engineer who ships</tspan></text>
     <text x="486" y="770" xml:space="preserve"><tspan fill="#d7e2f2">SYNOPSIS</tspan></text>
-    <text x="486" y="792" xml:space="preserve"><tspan fill="#5f8fcf">  alec [--day support] [--night yelo]</tspan></text>
+    <text x="486" y="792" xml:space="preserve"><tspan fill="#5f8fcf">  alec [--day devops] [--night yelo]</tspan></text>
     <text x="486" y="814" xml:space="preserve"><tspan fill="#5f8fcf">       [--fuel tea] [--for family]</tspan></text>
     <text x="486" y="842" xml:space="preserve"><tspan fill="#d7e2f2">EXIT STATUS</tspan></text>
     <text x="486" y="864" xml:space="preserve"><tspan fill="#5f8fcf">  0 — resolves. </tspan><tspan fill="#8fbf6f">every time.</tspan></text>
