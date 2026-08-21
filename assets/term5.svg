@@ -5,12 +5,10 @@
   <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="66" cy="20" r="6" fill="#27c93f"/>
-  <text x="430" y="25" font-family="SF Mono, Fira Code, Menlo, monospace" font-size="12" fill="#6b7280" text-anchor="middle">alec@choy — 3 claude code sessions · all shipping</text>
+  <text x="430" y="25" font-family="SF Mono, Fira Code, Menlo, monospace" font-size="12" fill="#6b7280" text-anchor="middle">alec@choy — tmux · yelo · jfrog · life</text>
   <line x1="472" y1="40" x2="472" y2="558" stroke="#26272e" stroke-width="2"/>
   <line x1="472" y1="378" x2="859" y2="378" stroke="#26272e" stroke-width="2"/>
   <rect x="16" y="90" width="200" height="20" rx="3" fill="#e6e6e6"/>
-  <rect x="480" y="90" width="190" height="20" rx="3" fill="#e6e6e6"/>
-  <rect x="480" y="424" width="170" height="20" rx="3" fill="#e6e6e6"/>
   <g font-family="SF Mono, Fira Code, Menlo, monospace" font-size="13">
     <text x="22" y="74"><tspan fill="#6b7280">✳ </tspan><tspan fill="#d7e2f2">yelo</tspan><tspan fill="#6b7280"> — claude code</tspan></text>
     <text x="22" y="104"><tspan fill="#111111">❯ who builds yelo?</tspan></text>
@@ -24,23 +22,25 @@
     <text x="22" y="300"><tspan fill="#6b7280">  Read 1 codebase, shipped 1 app, woke 0 investors</tspan></text>
     <text x="22" y="326"><tspan fill="#e08a4e">✳ Shipping… </tspan><tspan fill="#6b7280">(4 months · thinking with high effort)</tspan></text>
     <text x="22" y="532"><tspan fill="#6b7280">yelo · </tspan><tspan fill="#a483e8">Fable 5</tspan><tspan fill="#6b7280"> · ⎇ </tspan><tspan fill="#8fbf6f">main</tspan></text>
-    <text x="486" y="74"><tspan fill="#6b7280">✳ </tspan><tspan fill="#d7e2f2">jfrog</tspan><tspan fill="#6b7280"> — claude code</tspan></text>
-    <text x="486" y="104"><tspan fill="#111111">❯ triage the P1 queue</tspan></text>
-    <text x="486" y="134"><tspan fill="#6b7280">● </tspan><tspan fill="#5f8fcf">P1/P2 escalations for enterprise</tspan></text>
-    <text x="486" y="156"><tspan fill="#5f8fcf">  accounts — </tspan><tspan fill="#d7e2f2">OIDC/SAML/OAuth</tspan><tspan fill="#5f8fcf"> · supply-</tspan></text>
-    <text x="486" y="178"><tspan fill="#5f8fcf">  chain security · source-level root cause</tspan></text>
-    <text x="486" y="208"><tspan fill="#6b7280">● </tspan><tspan fill="#5f8fcf">case-triage — one session per case, in</tspan></text>
-    <text x="486" y="230"><tspan fill="#5f8fcf">  parallel · sup-cli — the default triage</tspan></text>
-    <text x="486" y="252"><tspan fill="#5f8fcf">  step, company-wide · </tspan><tspan fill="#d7e2f2">-90% first response</tspan></text>
-    <text x="486" y="284"><tspan fill="#e08a4e">✳ Brewed for 3 yrs 8 mos </tspan><tspan fill="#6b7280">· P1s within SLA</tspan></text>
+    <text x="486" y="74"><tspan fill="#8fbf6f">➜ </tspan><tspan fill="#d7e2f2">grep "day job" ~/jfrog</tspan></text>
+    <text x="486" y="100"><tspan fill="#5f8fcf">P1/P2 escalations for enterprise</tspan></text>
+    <text x="486" y="122"><tspan fill="#5f8fcf">accounts — </tspan><tspan fill="#d7e2f2">OIDC/SAML/OAuth</tspan><tspan fill="#5f8fcf"> · supply-</tspan></text>
+    <text x="486" y="144"><tspan fill="#5f8fcf">chain security · source-level root cause</tspan></text>
+    <text x="486" y="176"><tspan fill="#8fbf6f">➜ </tspan><tspan fill="#d7e2f2">ls tooling/</tspan></text>
+    <text x="486" y="202"><tspan fill="#6cb6ff">case-triage/</tspan><tspan fill="#5f8fcf">  one session per case,</tspan></text>
+    <text x="486" y="224"><tspan fill="#5f8fcf">in parallel · </tspan><tspan fill="#6cb6ff">sup-cli</tspan><tspan fill="#5f8fcf"> — the default</tspan></text>
+    <text x="486" y="246"><tspan fill="#5f8fcf">triage step, company-wide · </tspan><tspan fill="#d7e2f2">-90% FRT</tspan></text>
+    <text x="486" y="278"><tspan fill="#8fbf6f">➜ </tspan></text>
     <text x="486" y="356"><tspan fill="#6b7280">jfrog · </tspan><tspan fill="#e08a4e">P1 queue</tspan><tspan fill="#6b7280"> · ⛁ SLA</tspan></text>
-    <text x="486" y="408"><tspan fill="#6b7280">✳ </tspan><tspan fill="#d7e2f2">life</tspan></text>
-    <text x="486" y="438"><tspan fill="#111111">❯ cat /etc/fun-fact</tspan></text>
-    <text x="486" y="468"><tspan fill="#6b7280">● </tspan><tspan fill="#5f8fcf">drummed for Kanye West — </tspan><tspan fill="#6b7280">not a typo.</tspan></text>
+    <text x="486" y="412"><tspan fill="#8fbf6f">➜ </tspan><tspan fill="#d7e2f2">cat /etc/fun-fact</tspan></text>
+    <text x="486" y="438"><tspan fill="#e08a4e">drummed for Kanye West — </tspan><tspan fill="#6b7280">not a typo.</tspan></text>
+    <text x="486" y="470"><tspan fill="#8fbf6f">➜ </tspan></text>
     <text x="486" y="532"><tspan fill="#6b7280">life · </tspan><tspan fill="#8fbf6f">auto mode on</tspan></text>
-    <text x="486" y="502" fill="#5f8fcf">❯</text>
-    <rect x="504" y="488" width="8" height="16" fill="#d7e2f2">
-      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    <rect x="504" y="264" width="8" height="16" fill="#d7e2f2">
+      <animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="504" y="456" width="8" height="16" fill="#d7e2f2">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
   </g>
   <defs><clipPath id="ic"><rect x="164" y="362" width="132" height="132" rx="29"/></clipPath></defs>
