@@ -1,45 +1,19 @@
+### Hi, I'm Alec 👋
 
-### Hi There, I'm Alec 👋
+Support engineer at JFrog by day, builder the rest of the time. Most of my work lives in production, not in public repos — here's what I've been up to:
 
-## I'm a Full-Stack Software Engineer
-- 🔭 I’m currently working on a full stack project
-- 🌱 I’m currently learning Python
-- 👉 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with other software engineers
-- 💬 Ask me about [Ensombrite](https://ensombrite.herokuapp.com/#/) or [Meal'in](https://meal-in.herokuapp.com/#/)
-- 📫 How to reach me: [Email](mailto:alecchoy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alec-choy-387aab13b/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I drummed for Kanye West
+**🟡 Yelo — [yelofamily.com](https://yelofamily.com) · [App Store](https://apps.apple.com/us/app/yelo-family/id6766414810)**
 
-### **Connect with me!**
-[<img align="left" width="22px" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angellist.svg" />][angellist]
-[<img align="left" width="22px" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+An AI voice companion for elderly, limited-English-speaking parents — built for my own mom and dad, now live on the App Store. Real-time streaming voice (it starts speaking while the model is still thinking), lip-synced character animation, 15 languages, native iOS in Swift, multi-model Claude routing with per-family cost metering, and multi-tenant Postgres RLS security — designed, built, and operated end to end.
 
-<br>
+**⚙️ At JFrog**
 
-### **Languages and Tools**
-<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+I work P1/P2 enterprise escalations — authentication (OIDC/SAML/OAuth) and software supply-chain security — and build the tooling my team runs on: agentic case triage on Claude Code, and SUP CLI, our team's default triage step.
 
-<br>
+**🧰 Current stack**
 
-### **My Stats**
+TypeScript/Node · React · Swift · Python · PostgreSQL (Supabase/RLS) · Kubernetes · Docker · Claude API / Agent SDK · MCP
 
-[![Alec's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alecchoy&show_icons=true&count_private=true)](https://github.com/Alecchoy/github-readme-stats)
+📫 [alecchoy@gmail.com](mailto:alecchoy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alec-choy-387aab13b/)
 
-[![Alec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alecchoy)](https://github.com/Alecchoy/github-readme-stats)
-
-[linkedin]: https://www.linkedin.com/in/alec-choy-387aab13b/
-[angellist]: https://angel.co/u/alec-choy
-[email]: mailto:alecchoy@gmail.com
+⚡ Fun fact, still true: I drummed for Kanye West.
